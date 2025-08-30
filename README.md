@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Achraf 👋</h1>
-<p align="center">Front-End Dev • Web Artisan • Code & Coffee</p>
+<p align="center">Front-End Dev • Web Artisan </p>
 
 ---
 
